@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Angus",
+    "Leichtgeburten" : 98.8,
+    "Ursprung": "Nordosten Schottlands (Aberdeen)",
+    "Geburtsgewicht": "34 - 39 kg"
+  },
+  {
+    "Name" : "Braunvieh",
+    "Leichtgeburten" : "nA",
+    "Ursprung" : "Zentralschweiz",
+    "Geburtsgewicht" : "38 - 43 kg"
+  },
+  {
+    "Name" : "Charolais",
+    "Leichtgeburten" : 95.8,
+    "Ursprung" : "Ostfrankreich",
+    "Geburtsgewicht" : "42 - 48 kg"
+  },
+  {
+    "Name": "Limousin",
+    "Leichtgeburten" : 98.3,
+    "Ursprung": "Südwestfrankreich",
+    "Geburtsgewicht": "38 - 43 kg"
+  },
+  {
+    "Name": "Simmental",
+    "Leichtgeburten" : 98.0,
+    "Ursprung": "Schweiz (Berner Oberland)",
+    "Geburtsgewicht": "39 - 44 kg"
+  }
+]
